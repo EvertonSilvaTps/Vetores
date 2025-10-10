@@ -13,8 +13,8 @@ for (int i = 0; i < 6; i++)
         contImpar++;
 }
 
-int[] pares = new int[contPar];
-int[] impares = new int[contImpar];
+int[] pares = new int[6];
+int[] impares = new int[6];
 
 for (int i = 0; i < todos.Length; i++)
 {

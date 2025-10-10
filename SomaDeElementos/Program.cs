@@ -5,7 +5,7 @@ Console.WriteLine("Digite 5 números inteiros pra soma: ");
 
 for (int i = 0; i < 5; i++)
 {
-    Console.Write($"Número{i+1}: ");
+    Console.Write($"Número {i+1}: ");
     numeros[i] = int.Parse(Console.ReadLine());
     soma += numeros[i];
 }
