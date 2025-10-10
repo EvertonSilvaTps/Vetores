@@ -11,3 +11,4 @@ for (int i = 0; i < 5; i++)
 }
 
 Console.WriteLine($"A soma dos números é: {soma}");
+Console.ReadKey();

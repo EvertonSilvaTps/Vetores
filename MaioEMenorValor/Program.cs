@@ -11,3 +11,4 @@ for (int i = 0; i < numeros.Length; i++)
         maior = numeros[i];
 }
 Console.WriteLine($"\nO maior número é {maior}");
+Console.ReadKey();

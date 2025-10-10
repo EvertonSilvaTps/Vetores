@@ -12,3 +12,4 @@ do
     Console.WriteLine(numeros[contador]);
     contador++;
 } while (contador < numeros.Length);
+Console.ReadKey();
