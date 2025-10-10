@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContarOcorrencias", "Contar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoDeDescontoEmLista", "CalculoDeDescontoEmLista\CalculoDeDescontoEmLista.csproj", "{4D26B1CF-0D10-48D6-8AE0-875B0AA093FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordenação", "Ordenação\Ordenação.csproj", "{5F4695C3-D704-44E2-A712-1EB596BC9928}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4D26B1CF-0D10-48D6-8AE0-875B0AA093FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D26B1CF-0D10-48D6-8AE0-875B0AA093FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D26B1CF-0D10-48D6-8AE0-875B0AA093FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4695C3-D704-44E2-A712-1EB596BC9928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4695C3-D704-44E2-A712-1EB596BC9928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4695C3-D704-44E2-A712-1EB596BC9928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4695C3-D704-44E2-A712-1EB596BC9928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
